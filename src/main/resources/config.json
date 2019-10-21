@@ -1,0 +1,30 @@
+{
+    "sessionAuthHost": "[my-company].symphony.com",
+    "sessionAuthPort": 443,
+    "keyAuthHost": "[my-company].symphony.com",
+    "keyAuthPort": 443,
+    "podHost": "[my-company].symphony.com",
+    "podPort": 443,
+    "agentHost": "[my-company-agent].symphony.com",
+    "agentPort": 443,
+
+    "truststorePath": "certificates/all_symphony_certs_truststore",
+    "truststorePassword": "changeit",
+
+    "botUsername": "my-bot-username",
+    "botEmailAddress": "my-bot-email@my-company.com",
+
+    "botPrivateKeyPath": "rsa/",
+    "botPrivateKeyName": "rsa-mybot-private-key.pem",
+
+    "botCertPath": "",
+    "botCertName": "",
+    "botCertPassword": "",
+
+    "proxyURL": "",
+    "proxyUsername": "",
+    "proxyPassword": "",
+    "keyManagerProxyURL": "",
+    "keyManagerProxyUsername": "",
+    "keyManagerProxyPassword": ""
+}

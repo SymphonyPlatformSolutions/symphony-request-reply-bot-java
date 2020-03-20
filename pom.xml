@@ -25,7 +25,7 @@
         <dependency>
             <groupId>com.symphony.platformsolutions</groupId>
             <artifactId>symphony-api-client-java</artifactId>
-            <version>1.0.43</version>
+            <version>[1.1.0,)</version>
         </dependency>
     </dependencies>
 </project>
